@@ -41,9 +41,7 @@ A: Dynamic, change. Keep the data updated.
 
 - [ ] Describe props.
 
-A: At the beginner I thought it was ab object, but now I think it is propertities as well depend on how it is used. 
-Example: people.dat.map( ), in this case, it means an object of people.
-person.data.map(), here it means propertites of the person.
+A:It was ab object. It is used to bring out the propertites of every object.
 
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
 
