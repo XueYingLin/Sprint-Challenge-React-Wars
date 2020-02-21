@@ -7,7 +7,7 @@ const Person = props => {
     return (
         <Toast className='characters'>
             <ToastHeader>{props.name}</ToastHeader>
-            <ToastBody>{props.gender}</ToastBody>
+            <ToastBody>gender:{props.gender}  height:{props.height}</ToastBody>
             
         </Toast> 
     )

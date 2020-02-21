@@ -27,7 +27,7 @@ const App = () => {
     <div className="App">
       <h1 className="Header">React Wars</h1>
       {people.map( person => (
-        <Person name={person.name} gender={person.gender} />
+        <Person name={person.name} gender={person.gender} height={person.height} />
       ))}
     </div>
   );
