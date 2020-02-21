@@ -26,13 +26,28 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+A: React JS is an open-source JavaScript library. It is used to build user interfaces.
+   It is very helpful for users to build a webpage within the JSX. It can help the users or develpers keep the date updated.
+   First of all with the last two lessons, I have noticed, with the JSX, a webpage can be done without the HTML file.
+   After i click one a message sent out from my daughter's teacher from Seesaw, I can watch the latest video of my daughter. Her school webpage keep her health record, and updates her current infor and send to us.
+
 - [ ] What does it mean to _think_ in react?
+
+A: For me, it means an interaction between users and webpages or developers, which is created by React. 
 
 - [ ] Describe state.
 
+A: Dynamic, change. Keep the data updated.
+
 - [ ] Describe props.
 
+A: At the beginner I thought it was ab object, but now I think it is propertities as well depend on how it is used. 
+Example: people.dat.map( ), in this case, it means an object of people.
+person.data.map(), here it means propertites of the person.
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+A: It means extra unexpected things happened outside of the function or scolp. Use the useEffect with the dependency array to keep the data perform as desire.
 
 ## Project Set Up
 
